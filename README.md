@@ -10,3 +10,5 @@
 开始训练SFT
 
 ### 强化学习框架
+
+请参考rl文件夹下的QWEN3_FILES_SUMMARY.md
